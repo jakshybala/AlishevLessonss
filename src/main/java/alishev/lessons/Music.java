@@ -8,6 +8,7 @@ Tarih: 20.05.2022, Saat: 19:39, Author: Grey
 */
 public interface Music {
 
-    public String getMusic();
+//    public String getMusic();
+    public List<String> getMusic();
 
 }
